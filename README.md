@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @KaAwatea
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @KaAwatea
 
-<!---
-KaAwatea/KaAwatea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-👀 I’m interested in attending a seafood festival 
+👀 I’m interested in attending a seafood festival in collaboration with NRG Rising Summer concert in Raglan supporting the Big Splash in February 2023.
+
+Are you interested in showcasing your business merchandise or products with some raw talent?
+
+Click in
+
+
